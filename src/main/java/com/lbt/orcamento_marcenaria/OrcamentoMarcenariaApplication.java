@@ -9,5 +9,4 @@ public class OrcamentoMarcenariaApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(OrcamentoMarcenariaApplication.class, args);
 	}
-
 }
